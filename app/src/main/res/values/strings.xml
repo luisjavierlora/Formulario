@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="digitar_nombre">Digite el nombre</string>
+    <string name="digitar_correo">Correo electronico</string>
+    <string name="digitar_telefono">Telefono</string>
+    <string name="digitar_contrasena">Contraseña</string>
+    <string name="digitar_rcontrasena">Vuelva a digitar la contraseña</string>
+    <string name="rb1">Masculino</string>
+    <string name="rb2">Femenino</string>
+    <string name="check_viajar">Viajar</string>
+    <string name="check_leer">Leer</string>
+    <string name="check_bailar">Bailar</string>
+    <string name="check_cantar">Cantar</string>
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Manizales</item>
+        <item>Cartagena</item>
+    </string-array>
+    
+    <string name="registrar">Registrarse</string>
+    <string name="text_resultado">Resultado</string>
+    <string name="tv_fecha">" Seleccione fecha de nacimiento:"</string>
+    <string name="hint_fecha">dd/mm/yy</string>
+</resources>
